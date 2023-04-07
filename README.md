@@ -1,5 +1,5 @@
-# Laravel Quickstart - Basic
-
+# Laravel Quickstart - Basic      
+      
 ## Quick Installation
 
     git clone https://github.com/laravel/quickstart-basic quickstart
@@ -13,3 +13,9 @@
     php artisan serve
 
 [Complete Tutorial](https://laravel.com/docs/5.2/quickstart)
+ 
+ 
+ 
+  
+ 
+ 
